@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E $CFLE -0 c
+gcc -E $CFLE -o c
